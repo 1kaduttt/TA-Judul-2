@@ -41,3 +41,10 @@ Tools & Teknologi
 - CSS3 — tampilan dan layout
 - Git & GitHub — version control dan kolaborasi
 - Visual Studio Code — text editor utama
+
+Catatan Perubahan (Style Update)
+
+Tanggal: (05-11-2025)
+Perubahan:
+Warna latar belakang (background-color) pada elemen .page-section h2 span yang sebelumnya berwarna biru, kini telah diubah menjadi hitam (#01070d).
+Perubahan ini dilakukan untuk memberikan tampilan yang lebih elegan dan profesional dengan kontras tinggi terhadap teks berwarna putih.
